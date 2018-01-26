@@ -1,7 +1,6 @@
 C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\MarshallsMotto.csprojResolveAssemblyReference.cache
+C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ComparetwoNames.csprojResolveAssemblyReference.cache
 C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-C:\Users\ra316281\Desktop\c-\MarshallsMotto\MarshallsMotto\bin\Debug\MarshallsMotto.exe.config

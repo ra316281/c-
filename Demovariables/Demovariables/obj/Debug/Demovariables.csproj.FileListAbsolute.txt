@@ -4,3 +4,9 @@ C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug
 C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\Demovariables.csprojResolveAssemblyReference.cache
 C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\ra316281\Desktop\c-\Demovariables\Demovariables\bin\Debug\Demovariables.exe.config
+C:\Users\ra316281\Desktop\c-\Demovariables\Demovariables\bin\Debug\Demovariables.exe
+C:\Users\ra316281\Desktop\c-\Demovariables\Demovariables\bin\Debug\Demovariables.pdb
+C:\Users\ra316281\Desktop\c-\Demovariables\Demovariables\obj\Debug\Demovariables.csprojResolveAssemblyReference.cache
+C:\Users\ra316281\Desktop\c-\Demovariables\Demovariables\obj\Debug\Demovariables.exe
+C:\Users\ra316281\Desktop\c-\Demovariables\Demovariables\obj\Debug\Demovariables.pdb
