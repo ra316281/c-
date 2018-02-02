@@ -1,0 +1,4 @@
+C:\Users\ra316281\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\DailySpecial.csprojResolveAssemblyReference.cache
+C:\Users\ra316281\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ra316281\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ra316281\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\DailySpecial.csproj.GenerateResource.Cache
