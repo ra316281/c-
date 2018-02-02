@@ -1,0 +1,12 @@
+C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\DemoORAndAND.csprojResolveAssemblyReference.cache
+C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\ra316281\Desktop\c-\DemoORAndAND\DemoORAndAND\bin\Debug\DemoORAndAND.exe.config
+C:\Users\ra316281\Desktop\c-\DemoORAndAND\DemoORAndAND\bin\Debug\DemoORAndAND.exe
+C:\Users\ra316281\Desktop\c-\DemoORAndAND\DemoORAndAND\bin\Debug\DemoORAndAND.pdb
+C:\Users\ra316281\Desktop\c-\DemoORAndAND\DemoORAndAND\obj\Debug\DemoORAndAND.csprojResolveAssemblyReference.cache
+C:\Users\ra316281\Desktop\c-\DemoORAndAND\DemoORAndAND\obj\Debug\DemoORAndAND.exe
+C:\Users\ra316281\Desktop\c-\DemoORAndAND\DemoORAndAND\obj\Debug\DemoORAndAND.pdb
