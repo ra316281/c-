@@ -4,3 +4,4 @@ C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug
 C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\ra316281\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\ra316281\Desktop\c-\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\CompareThreeNumbers.exe.config
