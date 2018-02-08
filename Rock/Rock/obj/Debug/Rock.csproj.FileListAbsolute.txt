@@ -1,0 +1,7 @@
+C:\Users\ra316281\AppData\Local\Temporary Projects\Rock\bin\Debug\Rock.exe.config
+C:\Users\ra316281\Desktop\c-\Rock\Rock\bin\Debug\Rock.exe.config
+C:\Users\ra316281\Desktop\c-\Rock\Rock\obj\Debug\Rock.csprojResolveAssemblyReference.cache
+C:\Users\ra316281\Desktop\c-\Rock\Rock\bin\Debug\Rock.exe
+C:\Users\ra316281\Desktop\c-\Rock\Rock\bin\Debug\Rock.pdb
+C:\Users\ra316281\Desktop\c-\Rock\Rock\obj\Debug\Rock.exe
+C:\Users\ra316281\Desktop\c-\Rock\Rock\obj\Debug\Rock.pdb
