@@ -26,12 +26,13 @@ namespace Rock
             int scissors = 2;
             int paper = 3;
             int score = 0;
-            Random randomNumber = new Random();
-            theRandomNumber = randomNumber.Next(1, 4);
+            
 
 
             do
             {
+                Random randomNumber = new Random();
+                theRandomNumber = randomNumber.Next(1, 4);
                 Console.WriteLine("Choose 1 = rock 2 = scissors 3 = paper!");
                 userString = Console.ReadLine();
                 userGuess = Convert.ToInt32(userString);
@@ -47,7 +48,7 @@ namespace Rock
                         score = score + 1;
                     }
                 }
-                if (theRandomNumber == 2)
+                if (theRandomNumber == 2)//scissors
                 {
                     if (userGuess == 1)
                     {
@@ -60,7 +61,7 @@ namespace Rock
                     if (userGuess == 3)
                         Console.WriteLine("Lose");
                 }
-                if (theRandomNumber ==3)
+                if (theRandomNumber ==3)//paper
                 {
                     if (userGuess == 1)
                         Console.WriteLine("Lose");
@@ -74,7 +75,7 @@ namespace Rock
                         Console.WriteLine("Tie");
                 }
             
-
+                
 
             }while(score != 5);
             
