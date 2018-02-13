@@ -10,7 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            string name;
+            string OrderName, strPizzaString;
+            double orderNumber;                                           
+            double numOrdered;
             string cheesePizza = "$10.00";
             string chocolatePizza = "$14.50";
             string potatoPizza = "$12.20";
@@ -28,27 +30,86 @@ namespace ConsoleApplication1
             double popPrice = 2.99;
 
 
-            {
-                Console.WriteLine("Cheese Pizza {0}", cheesePizza);
-                Console.WriteLine("Chocolate Pizza {0}", chocolatePizza);
-                Console.WriteLine("Potato Pizza {0}", potatoPizza);
-                Console.WriteLine("Mini Apple Pie {0}", miniApplePie);
-                Console.WriteLine("Water {0}", water);
-                Console.WriteLine("Pop {0}", pop);
+            
+                Console.WriteLine("1 for Cheese Pizza {0}", cheesePizza);
+                Console.WriteLine("2 for Chocolate Pizza {0}", chocolatePizza);
+                Console.WriteLine("3 for Potato Pizza {0}", potatoPizza);
+                Console.WriteLine("4 for Mini Apple Pie {0}", miniApplePie);
+                Console.WriteLine("5 for Water {0}", water);
+                Console.WriteLine("6 for Pop {0}", pop);
 
                 Console.WriteLine("");
 
-                Console.WriteLine("Enter your name...");
-                name = Console.ReadLine();
+                Console.WriteLine("What would you like to order?");
+                OrderName = Console.ReadLine();
+                orderNumber = Convert.ToInt32(OrderName);
 
-                Console.WriteLine("");
+                if (orderNumber == 1)
+                {
+                    Console.WriteLine("You ordered a Cheese Pizza how many do you want?");
+                    strPizzaString = Console.ReadLine();
+                    numOrdered = Convert.ToInt32(strPizzaString);
 
-                Console.WriteLine("{0} write your order here please...", name);
+                    total = numOrdered * cheesePizzaPrice;
+                    Console.WriteLine("The amount of Cheese Pizza that you ordered is {0} and the total price is {1}", numOrdered, total);
+                }
+                
+                if (orderNumber == 2)
+                {
+                    Console.WriteLine("You ordered a Chocolate Pizza how many do you want?");
+                    strPizzaString = Console.ReadLine();
+                    numOrdered = Convert.ToInt32(strPizzaString);
+
+                    total = numOrdered * chocolatePizzaPrice;
+                    Console.WriteLine("The amount of Chocolate Pizza that you ordered is {0} and the total price is {1}", numOrdered, total);
+                }
+
+                if (orderNumber == 3)
+                {
+                    Console.WriteLine("You ordered a Potato Pizza how many do you want?");
+                    strPizzaString = Console.ReadLine();
+                    numOrdered = Convert.ToInt32(strPizzaString);
+
+                    total = numOrdered * potatoPizzaPrice;
+                    Console.WriteLine("The amount of Potato Pizza that you ordered is {0} and the total price is {1}", numOrdered, total);
+                }
+                if (orderNumber ==4)
+                {
+                    Console.WriteLine("You ordered a Mini Apple Pie how many do you want?");
+                    strPizzaString = Console.ReadLine();
+                    numOrdered = Convert.ToInt32(strPizzaString);
+
+                    total = numOrdered * miniApplePiePrice;
+                    Console.WriteLine("The amount of Mini Apple Pie that you ordered is {0} and the total price is {1}", numOrdered, total);
+                }
+                if (orderNumber == 5)
+                {
+                    Console.WriteLine("You ordered Water how many do you want?");
+                    strPizzaString = Console.ReadLine();
+                    numOrdered = Convert.ToInt32(strPizzaString);
+
+                    total = numOrdered * waterPrice;
+                    Console.WriteLine("The amount of Water that you ordered is {0} and the total price is {1}", numOrdered, total);
+                }
+                if (orderNumber == 6)
+                {
+                    Console.WriteLine("You ordered Pop how many do you want?");
+                    strPizzaString = Console.ReadLine();
+                    numOrdered = Convert.ToInt32(strPizzaString);
+
+                    total = numOrdered * potatoPizzaPrice;
+                    Console.WriteLine("The amount of Pop that you ordered is {0} and the total price is {1}", numOrdered, total);
+                }
+                Console.WriteLine("Would you like total order anything else?");
+                
+            //    Console.WriteLine("You ordered a " + orderNumber);
+
+                
                 
 
                
 
-            }
+            
 
             
             
