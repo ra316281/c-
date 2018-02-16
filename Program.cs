@@ -114,10 +114,6 @@ namespace ConsoleApplication1
                 {
                     Console.WriteLine("Thanks for ordering from Pizza House, hope you have a good rest of your day! The amount that you ordered is {0}, and your total is {1}" + total);
                 }
-               
-                
-                
-            //    Console.WriteLine("You ordered a " + orderNumber);
 
                 
                 
