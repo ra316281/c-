@@ -15,6 +15,7 @@ namespace ConsoleApplication1
             double UserAnswer;
             double orderNumber;                                           
             double numOrdered;
+            double total = 0;
             int userAnswerEnd;
             string cheesePizza = "$10.00";
             string chocolatePizza = "$14.50";
@@ -24,7 +25,6 @@ namespace ConsoleApplication1
             string pop = "$2.99";
             const double Tax_Rate = 0.07;
             double orderPrice;
-            double total;
             double cheesePizzaPrice = 10.00;
             double chocolatePizzaPrice = 14.50;
             double potatoPizzaPrice = 12.20;
@@ -55,7 +55,7 @@ namespace ConsoleApplication1
                         strPizzaString = Console.ReadLine();
                         numOrdered = Convert.ToInt32(strPizzaString);
 
-                        total = numOrdered * cheesePizzaPrice;
+                        total = total + numOrdered * cheesePizzaPrice;
                         Console.WriteLine("The amount of Cheese Pizza that you ordered is {0} and the total price is {1}", numOrdered, total);
                     }
 
@@ -65,7 +65,7 @@ namespace ConsoleApplication1
                         strPizzaString = Console.ReadLine();
                         numOrdered = Convert.ToInt32(strPizzaString);
 
-                        total = numOrdered * chocolatePizzaPrice;
+                        total = total + numOrdered * chocolatePizzaPrice;
                         Console.WriteLine("The amount of Chocolate Pizza that you ordered is {0} and the total price is {1}", numOrdered, total);
                     }
 
@@ -75,7 +75,7 @@ namespace ConsoleApplication1
                         strPizzaString = Console.ReadLine();
                         numOrdered = Convert.ToInt32(strPizzaString);
 
-                        total = numOrdered * potatoPizzaPrice;
+                        total = total + numOrdered * potatoPizzaPrice;
                         Console.WriteLine("The amount of Potato Pizza that you ordered is {0} and the total price is {1}", numOrdered, total);
                     }
                     if (orderNumber == 4)
@@ -84,7 +84,7 @@ namespace ConsoleApplication1
                         strPizzaString = Console.ReadLine();
                         numOrdered = Convert.ToInt32(strPizzaString);
 
-                        total = numOrdered * miniApplePiePrice;
+                        total = total + numOrdered * miniApplePiePrice;
                         Console.WriteLine("The amount of Mini Apple Pie that you ordered is {0} and the total price is {1}", numOrdered, total);
                     }
                     if (orderNumber == 5)
@@ -93,7 +93,7 @@ namespace ConsoleApplication1
                         strPizzaString = Console.ReadLine();
                         numOrdered = Convert.ToInt32(strPizzaString);
 
-                        total = numOrdered * waterPrice;
+                        total = total + numOrdered * waterPrice;
                         Console.WriteLine("The amount of Water that you ordered is {0} and the total price is {1}", numOrdered, total);
                     }
                     if (orderNumber == 6)
@@ -102,7 +102,7 @@ namespace ConsoleApplication1
                         strPizzaString = Console.ReadLine();
                         numOrdered = Convert.ToInt32(strPizzaString);
 
-                        total = numOrdered * potatoPizzaPrice;
+                        total = total + numOrdered * popPrice;
                         Console.WriteLine("The amount of Pop that you ordered is {0} and the total price is {1}", numOrdered, total);
                     }
                     Console.WriteLine("Would you like total order anything else? yes or 7 for no!");
@@ -112,7 +112,7 @@ namespace ConsoleApplication1
                    }
                 while (userAnswerEnd != 7);
                 {
-                    Console.WriteLine("Thanks for ordering from Pizza House, hope you have a good rest of your day! The amount that you ordered is {0}, and your total is {1}", total);
+                    Console.WriteLine("Thanks for ordering from Pizza House, hope you have a good rest of your day! The amount that you ordered is {0}, and your total is {1}" + total);
                 }
                
                 
