@@ -1,1 +1,2 @@
 C:\Users\ra316281\AppData\Local\Temporary Projects\DebugSix03\bin\Debug\DebugSix03.exe.config
+C:\Users\ra316281\Desktop\c-\DebugSix03\DebugSix03\bin\Debug\DebugSix03.exe.config
